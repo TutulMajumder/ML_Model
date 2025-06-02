@@ -1,2 +1,5 @@
 menv/
+cleanenv/
 KNN/k_nearest_neighbour.ipynb
+RandomForest/feature-importance-in-sklearn.ipynb
+RandomForest/how-feature-importance-is-calculated.ipynb
